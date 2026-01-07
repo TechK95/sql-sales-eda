@@ -48,7 +48,7 @@ Provides a high-level view of business performance, including:
 ---
 
 ### 2. Product Performance
-![Product Performance](screenshots/product_performance.png)
+![Product Performance](ProductPerformance.jpg)
 
 Highlights:
 - Top 5 products by revenue
