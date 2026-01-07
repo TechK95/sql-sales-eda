@@ -35,7 +35,7 @@ The dataset consists of three main tables:
 ## Dashboard Overview
 
 ### 1. Sales Overview
-![Sales Overview](screenshots/sales_overview.png)
+![Sales Overview](SalesOverview.jpg)
 
 Provides a high-level view of business performance, including:
 - Total Revenue
