@@ -58,7 +58,7 @@ Used to identify revenue concentration and underperforming products.
 ---
 
 ### 3. Customer Insights
-![Customer Insights](screenshots/customer_insights.png)
+![Customer Insights](CustomerInsights.jpg)
 
 Focuses on:
 - Top 10 customers by total revenue  
