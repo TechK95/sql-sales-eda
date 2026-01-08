@@ -7,6 +7,11 @@ The goal of the project is to demonstrate end-to-end analytics skills — from d
 
 ---
 
+## Data Source
+Public educational dataset used for learning and portfolio purposes.
+
+---
+
 ## Dataset
 The dataset consists of three main tables:
 - **Sales**: Order-level transactions, quantities, dates, and customer/product keys
